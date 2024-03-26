@@ -1,0 +1,19 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto d9be340e6e134a999010f35511440bf8 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot mp_adder_TB_behav xil_defaultlib.mp_adder_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'iCarry' [D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/carry_select_adder_Nb.v:75]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'iCarry' [D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/carry_select_adder_Nb.v:86]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.partial_full_adder
+Compiling module xil_defaultlib.carry_lookahead_adder_Nb(ADDER_W...
+Compiling module xil_defaultlib.carry_select_adder_Nb_default
+Compiling module xil_defaultlib.mp_adder_default
+Compiling module xil_defaultlib.mp_adder_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot mp_adder_TB_behav

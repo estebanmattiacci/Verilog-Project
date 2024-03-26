@@ -1,0 +1,15 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.sim/sim_1/behav/xsim/glbl.v,1682845477,verilog,,,,glbl,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/imports/lab3/mp_adder_TB.v,1682951297,verilog,,,,mp_adder_TB,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/new/CLa_TB.v,1683304866,verilog,,,,CLa_TB,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/new/CSa_TB.v,1683385809,verilog,,,,CSa_TB,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/new/PFA_TB.v,1683298091,verilog,,,,PFA_TB,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/imports/lab3/mp_adder.v,1683362089,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/partial_full_adder.v,,mp_adder,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/imports/new/full_adder.v,1682845477,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/imports/lab3/mp_adder.v,,full_adder,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/imports/new/ripple_carry_adder_Nb.v,1682845477,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/imports/lab3/mp_adder_TB.v,,ripple_carry_adder_Nb,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/carry_lookahead_adder_Nb.v,1683364493,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/carry_select_adder_Nb.v,,carry_lookahead_adder_Nb,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/carry_select_adder_Nb.v,1683386089,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/imports/lab3/mp_adder.v,,carry_select_adder_Nb,,,,,,,,
+D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sources_1/new/partial_full_adder.v,1683303414,verilog,,D:/OneDrive - KU Leuven/Complex Digital Design/labs/cdd-hardware-accelerator-for-arithmetic-operations/final/final.srcs/sim_1/imports/lab3/mp_adder_TB.v,,partial_full_adder,,,,,,,,
